@@ -1,0 +1,19 @@
+REM   Script: Session 01
+REM   Atividade
+
+CREATE TABLE DEPARTAMENTO( 
+    CODIGO INTEGER, 
+    NOME VARCHAR(20), 
+    ADDRESS VARCHAR(30) 
+);
+
+CREATE TABLE Funcionarios(   
+   
+    ID INTEGER PRIMARY KEY NOT NULL,   
+    F_NAME VARCHAR(20),   
+    L_NAME VARCHAR(20),   
+    B_BORN DATE,  
+    SALARIO DECIMAL (6,2),   
+    DEP_ID INTEGER   
+);
+

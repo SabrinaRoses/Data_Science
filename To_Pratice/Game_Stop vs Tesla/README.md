@@ -33,4 +33,10 @@ Individual investors using the forum on the Reddit online community named WallSt
 
 > Development in jupyter notebooks.
 
+## Tesla Plot:
+![Tesla_plot](https://user-images.githubusercontent.com/65089744/227575736-7b933014-ff38-4497-8c58-4e35f382da87.png)
+
+## GameStop Plot:
+![Game_stop_Plot](https://user-images.githubusercontent.com/65089744/227575829-5344b5ef-a663-4f59-a490-4d1c77680cb3.png)
+
 

@@ -8,4 +8,11 @@ Sometimes short sellers get it wrong; for example, Tesla.  A few years ago, many
 
 Individual investors using the forum on the Reddit online community named WallStreetBets, started buying into shares of GameStop, a video and computer-game retailer losing money. The influx of demand caused GameStop shares to soar.  All this produced billions of dollars in losses for hedge funds who had sold the stock short. [ 1] GameStop's share price should fall eventually, so the Hedge funds should hold on to the short positions. As a data scientist working for a hedge fund, you will extract the profit data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the profit for the hedge fund.
 
+## Define a Function that Makes a Graph:
+- Question 1: Use yfinance to Extract Stock Data.
+- Question 2: Use Webscraping to Extract Tesla Revenue Data.
+- Question 3: Use yfinance to Extract Stock Data.
+- Question 4: Use Webscraping to Extract GME Revenue Data.
+- Question 5: Plot Tesla Stock Graph.
+- Question 6: Plot GameStop Stock Graph.
 

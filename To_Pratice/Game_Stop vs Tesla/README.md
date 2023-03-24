@@ -16,3 +16,21 @@ Individual investors using the forum on the Reddit online community named WallSt
 - Question 5: Plot Tesla Stock Graph.
 - Question 6: Plot GameStop Stock Graph.
 
+## 🔧 Requeriments
+- !pip install yfinance
+- !pip install pandas
+- !pip install requests
+- !pip install bs4
+- !pip install plotly
+
+## Libraries:
+- import yfinance as yf
+- import pandas as pd
+- import requests
+- from bs4 import BeautifulSoup
+- import plotly.graph_objects as go
+- from plotly.subplots import make_subplots
+
+> Development in jupyter notebooks.
+
+

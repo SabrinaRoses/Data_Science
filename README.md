@@ -31,8 +31,7 @@
 - Python for Data Analysis.
 - Python Handbook.
 
-```
-## feel free to share more content in this repository!
-    I will update as my progress.
+## Feel free to share more content in this repository!
+ >  I will update as my progress.
 
 Enjoy!

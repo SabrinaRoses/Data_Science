@@ -25,7 +25,8 @@
 <b> Importance of Maths Tops Neeeded For Machine Learning/Data Science:
 - Linear Algebra
 - Multivariate Calculus
-- Probability Theory
+- Probability Theory:
+https://www.khanacademy.org/math/probability
 - Discrete Mathematics
 - Statistics
 

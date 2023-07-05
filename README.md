@@ -14,7 +14,7 @@
 - Python for Data Science, AI&Development. ✅
 - Python Project For Data Science. ✅
 - Data Base and SQL for Data Science With Python. ✅
-- Data Analyst With Python. 
+- Data Analyst With Python. ✅
 - Data Visulization With Python. (In Progress)
 - Machine Learning With Python.
 - Applied Data Science Captsone.
@@ -23,12 +23,12 @@
 > At this point I see that math skills are very necessary. I'm looking for courses that can help me.
 
 <b> Importance of Maths Tops Neeeded For Machine Learning/Data Science:
-- Linear Algebra
-- Multivariate Calculus
-- Probability Theory:
+- Linear Algebra. ✅
+- Multivariate Calculus. ✅
+- Probability Theory. ✅
 https://www.khanacademy.org/math/probability
-- Discrete Mathematics
-- Statistics
+- Discrete Mathematics. ✅
+- Statistics. ✅
 
 ## Courses link:
 - IBM Data Science (Paid): https://www.coursera.org/professional-certificates/ibm-data-science

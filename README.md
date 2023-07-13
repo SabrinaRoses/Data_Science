@@ -15,7 +15,7 @@
 - Python Project For Data Science. ✅
 - Data Base and SQL for Data Science With Python. ✅
 - Data Analyst With Python. ✅
-- Data Visulization With Python. (In Progress)
+- Data Visulization With Python. ✅
 - Machine Learning With Python.
 - Applied Data Science Captsone.
 

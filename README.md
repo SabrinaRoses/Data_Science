@@ -17,7 +17,7 @@
 - Data Analyst With Python. ✅
 - Data Visulization With Python. ✅
 - Machine Learning With Python.
-- Applied Data Science Captsone.
+- Applied Data Science Captsone. ✅
 
 ## Math Skills [GitHub Pages](https://github.com/SabrinaRoses/Data_Science/tree/main/Math):
 > At this point I see that math skills are very necessary. I'm looking for courses that can help me.
